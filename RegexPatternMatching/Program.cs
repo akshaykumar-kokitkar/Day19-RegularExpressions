@@ -14,8 +14,12 @@ namespace RegexPatternMatching
             //Console.WriteLine(pattern2.validateLastName("KOKITKAR"));
 			
 			//UC3
-            EmailRegex pattern3 = new EmailRegex();
-            Console.WriteLine(pattern3.validateEmail("abc.xyz@bl.co.in"));
+            //EmailRegex pattern3 = new EmailRegex();
+            //Console.WriteLine(pattern3.validateEmail("abc.xyz@bl.co.in"));
+			
+			//UC4
+			MobileNumberRegex pattern4 = new MobileNumberRegex();
+            Console.WriteLine(pattern4.ValidateMobileNo("91 7758001374"));
 
         }
     }
