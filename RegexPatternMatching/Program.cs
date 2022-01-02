@@ -18,8 +18,13 @@ namespace RegexPatternMatching
             //Console.WriteLine(pattern3.validateEmail("abc.xyz@bl.co.in"));
 			
 			//UC4
-			MobileNumberRegex pattern4 = new MobileNumberRegex();
-            Console.WriteLine(pattern4.ValidateMobileNo("91 7758001374"));
+			//MobileNumberRegex pattern4 = new MobileNumberRegex();
+            //Console.WriteLine(pattern4.ValidateMobileNo("91 7758001374"));
+			
+			//UC5
+            PasswordRegexRule1 pattern5 = new PasswordRegexRule1();
+            Console.WriteLine(pattern5.ValidatePasswordRule1("akshaykokitkar"));
+
 
         }
     }
