@@ -22,8 +22,12 @@ namespace RegexPatternMatching
             //Console.WriteLine(pattern4.ValidateMobileNo("91 7758001374"));
 			
 			//UC5
-            PasswordRegexRule1 pattern5 = new PasswordRegexRule1();
-            Console.WriteLine(pattern5.ValidatePasswordRule1("akshaykokitkar"));
+            //PasswordRegexRule1 pattern5 = new PasswordRegexRule1();
+            //Console.WriteLine(pattern5.ValidatePasswordRule1("akshaykokitkar"));
+			
+			//UC6
+            PasswordRegexRule2 pattern6 = new PasswordRegexRule2();
+            Console.WriteLine(pattern6.ValidatePasswordRule2("Akshaykumarkokitkar"));
 
 
         }
