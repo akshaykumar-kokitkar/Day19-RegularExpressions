@@ -30,8 +30,12 @@ namespace RegexPatternMatching
             //Console.WriteLine(pattern6.ValidatePasswordRule2("Akshaykumarkokitkar"));
 			
 			//UC7
-            PasswordRegexRule3 pattern7 = new PasswordRegexRule3();
-            Console.WriteLine(pattern7.ValidatePasswordRule3("Akshayk1"));
+            //PasswordRegexRule3 pattern7 = new PasswordRegexRule3();
+            //Console.WriteLine(pattern7.ValidatePasswordRule3("Akshayk1"));
+			
+			//UC8
+            PasswordRegexRule4 pattern8 = new PasswordRegexRule4();
+            Console.WriteLine(pattern8.ValidatePasswordRule4("Akshaykokitkar#1"));
 
 
         }
