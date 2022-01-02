@@ -10,8 +10,12 @@ namespace RegexPatternMatching
             //Console.WriteLine(pattern.validateFirstName("Aks"));
 			
 			//UC2
-            LastNameRegex pattern2 = new LastNameRegex();
-            Console.WriteLine(pattern2.validateLastName("KOKITKAR"));
+            //LastNameRegex pattern2 = new LastNameRegex();
+            //Console.WriteLine(pattern2.validateLastName("KOKITKAR"));
+			
+			//UC3
+            EmailRegex pattern3 = new EmailRegex();
+            Console.WriteLine(pattern3.validateEmail("abc.xyz@bl.co.in"));
 
         }
     }
