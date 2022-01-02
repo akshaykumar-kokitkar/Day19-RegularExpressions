@@ -1,0 +1,15 @@
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\bin\Debug\net6.0\RegexPatternMatching.exe
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\bin\Debug\net6.0\RegexPatternMatching.deps.json
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\bin\Debug\net6.0\RegexPatternMatching.runtimeconfig.json
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\bin\Debug\net6.0\RegexPatternMatching.dll
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\bin\Debug\net6.0\ref\RegexPatternMatching.dll
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\bin\Debug\net6.0\RegexPatternMatching.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\obj\Debug\net6.0\RegexPatternMatching.csproj.AssemblyReference.cache
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\obj\Debug\net6.0\RegexPatternMatching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\obj\Debug\net6.0\RegexPatternMatching.AssemblyInfoInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\obj\Debug\net6.0\RegexPatternMatching.AssemblyInfo.cs
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\obj\Debug\net6.0\RegexPatternMatching.csproj.CoreCompileInputs.cache
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\obj\Debug\net6.0\RegexPatternMatching.dll
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\obj\Debug\net6.0\ref\RegexPatternMatching.dll
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\obj\Debug\net6.0\RegexPatternMatching.pdb
+C:\Users\ak\Desktop\BridgeLabz Project\RegexPatternMatching\RegexPatternMatching\obj\Debug\net6.0\RegexPatternMatching.genruntimeconfig.cache
