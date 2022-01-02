@@ -26,8 +26,12 @@ namespace RegexPatternMatching
             //Console.WriteLine(pattern5.ValidatePasswordRule1("akshaykokitkar"));
 			
 			//UC6
-            PasswordRegexRule2 pattern6 = new PasswordRegexRule2();
-            Console.WriteLine(pattern6.ValidatePasswordRule2("Akshaykumarkokitkar"));
+            //PasswordRegexRule2 pattern6 = new PasswordRegexRule2();
+            //Console.WriteLine(pattern6.ValidatePasswordRule2("Akshaykumarkokitkar"));
+			
+			//UC7
+            PasswordRegexRule3 pattern7 = new PasswordRegexRule3();
+            Console.WriteLine(pattern7.ValidatePasswordRule3("Akshayk1"));
 
 
         }
