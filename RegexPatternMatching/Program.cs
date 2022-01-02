@@ -34,8 +34,12 @@ namespace RegexPatternMatching
             //Console.WriteLine(pattern7.ValidatePasswordRule3("Akshayk1"));
 			
 			//UC8
-            PasswordRegexRule4 pattern8 = new PasswordRegexRule4();
-            Console.WriteLine(pattern8.ValidatePasswordRule4("Akshaykokitkar#1"));
+            //PasswordRegexRule4 pattern8 = new PasswordRegexRule4();
+            //Console.WriteLine(pattern8.ValidatePasswordRule4("Akshaykokitkar#1"));
+			
+			//UC9
+            AllEmailSamplesRegex pattern9 = new AllEmailSamplesRegex();
+            Console.WriteLine(pattern9.ValidateFullEmail("Akshay@bl.co.in"));
 
 
         }
